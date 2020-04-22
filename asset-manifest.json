@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Teknikspranget/static/css/main.d8a40c49.chunk.css",
+    "main.css": "/Teknikspranget/static/css/main.561aa44c.chunk.css",
     "main.js": "/Teknikspranget/static/js/main.cba6b97c.chunk.js",
     "main.js.map": "/Teknikspranget/static/js/main.cba6b97c.chunk.js.map",
     "runtime-main.js": "/Teknikspranget/static/js/runtime-main.e5efb689.js",
@@ -9,10 +9,10 @@
     "static/js/2.2d2b2d36.chunk.js": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js",
     "static/js/2.2d2b2d36.chunk.js.map": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js.map",
     "index.html": "/Teknikspranget/index.html",
-    "precache-manifest.a2b11f90dd9e0274b998bf6c8a62042b.js": "/Teknikspranget/precache-manifest.a2b11f90dd9e0274b998bf6c8a62042b.js",
+    "precache-manifest.9f6a10ef2bcecbc18f95418664b72966.js": "/Teknikspranget/precache-manifest.9f6a10ef2bcecbc18f95418664b72966.js",
     "service-worker.js": "/Teknikspranget/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/Teknikspranget/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.d8a40c49.chunk.css.map": "/Teknikspranget/static/css/main.d8a40c49.chunk.css.map",
+    "static/css/main.561aa44c.chunk.css.map": "/Teknikspranget/static/css/main.561aa44c.chunk.css.map",
     "static/js/2.2d2b2d36.chunk.js.LICENSE.txt": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js.LICENSE.txt",
     "static/media/cosupic.jpg": "/Teknikspranget/static/media/cosupic.20b8a4dc.jpg",
     "static/media/erik.jpg": "/Teknikspranget/static/media/erik.29bf5d04.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.e5efb689.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.2d2b2d36.chunk.js",
-    "static/css/main.d8a40c49.chunk.css",
+    "static/css/main.561aa44c.chunk.css",
     "static/js/main.cba6b97c.chunk.js"
   ]
 }
