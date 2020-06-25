@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9586313cb2423280a9a6d0d7868debc",
+    "revision": "5536e4cd3951e2cde07ebbf48a87374b",
     "url": "/Teknikspranget/index.html"
   },
   {
-    "revision": "076889075a24e5053967",
+    "revision": "2ae16787b79ea8dc1f85",
     "url": "/Teknikspranget/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "b4d977a822bfb52e55af",
-    "url": "/Teknikspranget/static/css/main.561aa44c.chunk.css"
+    "revision": "57c017d3f349735641a4",
+    "url": "/Teknikspranget/static/css/main.82e63ed9.chunk.css"
   },
   {
-    "revision": "076889075a24e5053967",
-    "url": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js"
+    "revision": "2ae16787b79ea8dc1f85",
+    "url": "/Teknikspranget/static/js/2.6a405d28.chunk.js"
   },
   {
     "revision": "633ce508062cdafc4f8ece51f4d45ac9",
-    "url": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js.LICENSE.txt"
+    "url": "/Teknikspranget/static/js/2.6a405d28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4d977a822bfb52e55af",
-    "url": "/Teknikspranget/static/js/main.84cb469b.chunk.js"
+    "revision": "57c017d3f349735641a4",
+    "url": "/Teknikspranget/static/js/main.c53b0510.chunk.js"
   },
   {
     "revision": "d4189359a9145c61fcdc",

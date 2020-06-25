@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Teknikspranget/static/css/main.561aa44c.chunk.css",
-    "main.js": "/Teknikspranget/static/js/main.84cb469b.chunk.js",
-    "main.js.map": "/Teknikspranget/static/js/main.84cb469b.chunk.js.map",
+    "main.css": "/Teknikspranget/static/css/main.82e63ed9.chunk.css",
+    "main.js": "/Teknikspranget/static/js/main.c53b0510.chunk.js",
+    "main.js.map": "/Teknikspranget/static/js/main.c53b0510.chunk.js.map",
     "runtime-main.js": "/Teknikspranget/static/js/runtime-main.e5efb689.js",
     "runtime-main.js.map": "/Teknikspranget/static/js/runtime-main.e5efb689.js.map",
     "static/css/2.e4346227.chunk.css": "/Teknikspranget/static/css/2.e4346227.chunk.css",
-    "static/js/2.2d2b2d36.chunk.js": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js",
-    "static/js/2.2d2b2d36.chunk.js.map": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js.map",
+    "static/js/2.6a405d28.chunk.js": "/Teknikspranget/static/js/2.6a405d28.chunk.js",
+    "static/js/2.6a405d28.chunk.js.map": "/Teknikspranget/static/js/2.6a405d28.chunk.js.map",
     "index.html": "/Teknikspranget/index.html",
-    "precache-manifest.dbe2a7fa85b42a7d654fdddda56693b6.js": "/Teknikspranget/precache-manifest.dbe2a7fa85b42a7d654fdddda56693b6.js",
+    "precache-manifest.797c059c5d4e3b5124879f435611147b.js": "/Teknikspranget/precache-manifest.797c059c5d4e3b5124879f435611147b.js",
     "service-worker.js": "/Teknikspranget/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/Teknikspranget/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.561aa44c.chunk.css.map": "/Teknikspranget/static/css/main.561aa44c.chunk.css.map",
-    "static/js/2.2d2b2d36.chunk.js.LICENSE.txt": "/Teknikspranget/static/js/2.2d2b2d36.chunk.js.LICENSE.txt",
+    "static/css/main.82e63ed9.chunk.css.map": "/Teknikspranget/static/css/main.82e63ed9.chunk.css.map",
+    "static/js/2.6a405d28.chunk.js.LICENSE.txt": "/Teknikspranget/static/js/2.6a405d28.chunk.js.LICENSE.txt",
     "static/media/cosupic.jpg": "/Teknikspranget/static/media/cosupic.20b8a4dc.jpg",
     "static/media/erik.jpg": "/Teknikspranget/static/media/erik.29bf5d04.jpg",
     "static/media/portrait.jpg": "/Teknikspranget/static/media/portrait.172dd269.jpg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.e5efb689.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.2d2b2d36.chunk.js",
-    "static/css/main.561aa44c.chunk.css",
-    "static/js/main.84cb469b.chunk.js"
+    "static/js/2.6a405d28.chunk.js",
+    "static/css/main.82e63ed9.chunk.css",
+    "static/js/main.c53b0510.chunk.js"
   ]
 }
