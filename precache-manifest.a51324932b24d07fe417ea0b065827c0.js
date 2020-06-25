@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5536e4cd3951e2cde07ebbf48a87374b",
+    "revision": "c781cc0187665555818d4e2fc8f507e5",
     "url": "/Teknikspranget/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Teknikspranget/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "57c017d3f349735641a4",
+    "revision": "c53ca489318970a94d66",
     "url": "/Teknikspranget/static/css/main.82e63ed9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Teknikspranget/static/js/2.6a405d28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57c017d3f349735641a4",
-    "url": "/Teknikspranget/static/js/main.c53b0510.chunk.js"
+    "revision": "c53ca489318970a94d66",
+    "url": "/Teknikspranget/static/js/main.d9c2a5f6.chunk.js"
   },
   {
     "revision": "d4189359a9145c61fcdc",

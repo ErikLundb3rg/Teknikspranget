@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Teknikspranget/static/css/main.82e63ed9.chunk.css",
-    "main.js": "/Teknikspranget/static/js/main.c53b0510.chunk.js",
-    "main.js.map": "/Teknikspranget/static/js/main.c53b0510.chunk.js.map",
+    "main.js": "/Teknikspranget/static/js/main.d9c2a5f6.chunk.js",
+    "main.js.map": "/Teknikspranget/static/js/main.d9c2a5f6.chunk.js.map",
     "runtime-main.js": "/Teknikspranget/static/js/runtime-main.e5efb689.js",
     "runtime-main.js.map": "/Teknikspranget/static/js/runtime-main.e5efb689.js.map",
     "static/css/2.e4346227.chunk.css": "/Teknikspranget/static/css/2.e4346227.chunk.css",
     "static/js/2.6a405d28.chunk.js": "/Teknikspranget/static/js/2.6a405d28.chunk.js",
     "static/js/2.6a405d28.chunk.js.map": "/Teknikspranget/static/js/2.6a405d28.chunk.js.map",
     "index.html": "/Teknikspranget/index.html",
-    "precache-manifest.797c059c5d4e3b5124879f435611147b.js": "/Teknikspranget/precache-manifest.797c059c5d4e3b5124879f435611147b.js",
+    "precache-manifest.a51324932b24d07fe417ea0b065827c0.js": "/Teknikspranget/precache-manifest.a51324932b24d07fe417ea0b065827c0.js",
     "service-worker.js": "/Teknikspranget/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/Teknikspranget/static/css/2.e4346227.chunk.css.map",
     "static/css/main.82e63ed9.chunk.css.map": "/Teknikspranget/static/css/main.82e63ed9.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.e4346227.chunk.css",
     "static/js/2.6a405d28.chunk.js",
     "static/css/main.82e63ed9.chunk.css",
-    "static/js/main.c53b0510.chunk.js"
+    "static/js/main.d9c2a5f6.chunk.js"
   ]
 }
